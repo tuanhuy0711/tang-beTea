@@ -11,8 +11,9 @@ const CONFIG = {
     introTitle: 'Helu người yêuuu',
     introDesc: `Giờ có điều muốn hỏi nè trả lời thật lòng nhaaa `,
     btnIntro: 'Dạ uke ',
-     title: ' Người đừng khó chịu với anh nữa nhe. A biết lỗi rồiii 🥺 ',
+    title: ' Người yêu đừng khó chịu với anh nữa nhe. A biết lỗi rồi 🥺 ',
     desc: 'Anh biết em thương anh yêu anh nhiều mà. Anh cũng vậy á  <3  ',
+      
     btnYes: ' Đúng vậy đó người yêu của em <3',
     btnNo: 'Xàm quá ba !!',
     question:'Trên thế giới hơn 7 tỉ nụ cười mà nụ cười em mới là đẹp nhất  <3',
